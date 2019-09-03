@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567487288 source:d:\format\codeblocks\energia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
